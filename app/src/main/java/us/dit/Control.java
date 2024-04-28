@@ -2,8 +2,8 @@ package us.dit;
 
 public class Control {
    public static void main(String[] args) {
-    	int var1=2;
-    	int var2=5;        
+    	int var1=2221;
+    	int var2=53234;        
         int resultado = operacion(var1,var2);        
         System.out.println(us.dit.Validador.validar(resultado));       
         }
