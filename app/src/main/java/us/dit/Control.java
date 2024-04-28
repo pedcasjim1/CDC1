@@ -7,7 +7,7 @@ public class Control {
         int resultado = operacion(var1,var2);        
         System.out.println(us.dit.Validador.validar(resultado));       
         }
-        
+        //HOLA ESTO ES UN COMENTARIO DE PRUEBA
    public static int operacion(int a, int b) {
         return a/b;
    }    
